@@ -1,1 +1,1 @@
-https://github.com/test_qaz/test
+https://github.com/qaz-z/test
