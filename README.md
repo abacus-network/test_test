@@ -1,1 +1,1 @@
-https://github.com/qaz-z/test
+https://github.com/naresh-tes/test
